@@ -1,4 +1,4 @@
-# DNS-Extraction
+# DNS-Exfiltration
 A proof-of-concept project demonstarting how to exfiltrate files in chunks over the DNS protocol by encoding data into subdomains.
 
 # Components
